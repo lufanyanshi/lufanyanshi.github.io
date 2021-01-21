@@ -25,23 +25,23 @@ let mainConfig = {
 
 
   slogan: {
-    main: "有逻辑的灵魂，",
-    sub: "造就有温度的编码。"
+    main: "未完待续...",
+    sub: ""
   },
 
   themeConfig: {
     nav: [
       {
         name: "首页",
-        link: "/Issue-Blog-With-Github-Action"
+        link: "/"
       },
       {
         name: "Github",
-        link: "https://github.com/Yidadaa"
+        link: "https://github.com/lufanyanshi"
       },
       {
         name: "CV",
-        link: "/Issue-Blog-With-Github-Action/cv.html"
+        link: "/"
       }
     ],
     headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
@@ -57,7 +57,7 @@ let mainConfig = {
     ],
     extraFooters: [
       {
-        title: "@ 蜀 ICP 备 19000509 号 - 1",
+        title: "",
         text: ""
       }
     ],
