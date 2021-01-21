@@ -23,20 +23,37 @@ let mainConfig = {
   customDomain: "",
   base: "/",
 
+
   slogan: {
-    main: "未完待续...",
-    sub: "..."
+    main: "有逻辑的灵魂，",
+    sub: "造就有温度的编码。"
   },
 
   themeConfig: {
     nav: [
       {
         name: "首页",
-        link: "/"
-      } 
+        link: "/Issue-Blog-With-Github-Action"
+      },
+      {
+        name: "Github",
+        link: "https://github.com/Yidadaa"
+      },
+      {
+        name: "CV",
+        link: "/Issue-Blog-With-Github-Action/cv.html"
+      }
     ],
     headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
     friendLinks: [
+      {
+        name: "watercow",
+        link: "https://github.com/watercow/watercow.github.io/issues"
+      },
+      {
+        name: "ycjgg",
+        link: "https://ycjgg.github.io"
+      }
     ],
     extraFooters: [
       {
