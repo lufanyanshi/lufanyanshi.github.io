@@ -6,53 +6,37 @@ let mainConfig = {
   vssueConfig: {
     owner: "lufanyanshi",
     repo: "lufanyanshi.github.io",
-    clientId: "2783a4b752f56c0ed912",
-    clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
+    clientId: "3d2003987ee4f61081e5",
+    clientSecret: "d1baf2dd2a85b949847900ee401a892ff8bca492"
   },
 
   repoConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
+    owner: "lufanyanshi",
+    repo: "lufanyanshi.github.io",
     pushBranch: "master",
-    email: "yidadaa@qq.com",
-    filterUsers: ['Yidadaa']
+    email: "zplu14@gmail.com",
+    filterUsers: ['lufanyanshi','jasonfan1997']
   },
 
-  title: "YiFei Zhang's Blog",
-  description: "在这里了解我的一切，对编程的热爱永不停歇。",
+  title: "Fan & Lu's Blog",
+  description: "Fan和Lu的小站",
   customDomain: "",
-  base: "/Issue-Blog-With-Github-Action/",
+  base: "/",
 
   slogan: {
-    main: "有逻辑的灵魂，",
-    sub: "造就有温度的编码。"
+    main: "未完待续...",
+    sub: "..."
   },
 
   themeConfig: {
     nav: [
       {
         name: "首页",
-        link: "/Issue-Blog-With-Github-Action"
-      },
-      {
-        name: "Github",
-        link: "https://github.com/Yidadaa"
-      },
-      {
-        name: "CV",
-        link: "/Issue-Blog-With-Github-Action/cv.html"
-      }
+        link: "/"
+      } 
     ],
     headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
     friendLinks: [
-      {
-        name: "watercow",
-        link: "https://github.com/watercow/watercow.github.io/issues"
-      },
-      {
-        name: "ycjgg",
-        link: "https://ycjgg.github.io"
-      }
     ],
     extraFooters: [
       {
