@@ -25,8 +25,8 @@ let mainConfig = {
 
 
   slogan: {
-    main: "未完待续...",
-    sub: ""
+    main: "有你我方找到生存來源",
+    sub: "多麼感激竟然有一雙我倆"
   },
 
   themeConfig: {
@@ -38,21 +38,13 @@ let mainConfig = {
       {
         name: "Github",
         link: "https://github.com/lufanyanshi"
-      },
-      {
-        name: "CV",
-        link: "/"
       }
     ],
-    headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
+    headTitle: ["我共你覺得苦也不太差"],
     friendLinks: [
       {
-        name: "watercow",
-        link: "https://github.com/watercow/watercow.github.io/issues"
-      },
-      {
-        name: "ycjgg",
-        link: "https://ycjgg.github.io"
+        name: "lufanyanshi",
+        link: "https://github.com/lufanyanshi"
       }
     ],
     extraFooters: [
