@@ -40,7 +40,7 @@ let mainConfig = {
         link: "https://github.com/lufanyanshi"
       }
     ],
-    headTitle: ["我共你覺得苦也不太差"],
+    headTitle: ["Fan & Lu 的小站"],
     friendLinks: [
       {
         name: "lufanyanshi",
